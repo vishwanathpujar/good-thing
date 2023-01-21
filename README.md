@@ -1,0 +1,2 @@
+# good-thing
+Bot good
